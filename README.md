@@ -1,2 +1,2 @@
-# teaching-R
+# Teaching R
 A dedicated repository for teaching R programming
